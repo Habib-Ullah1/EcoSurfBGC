@@ -1,6 +1,6 @@
 # EcoSurfBGC
 
-This repository contains R, Python, and shell scripts for the ecosystem-resolved biosynthetic gene cluster (BGC) atlas described in Ullah et al. (to be publish).
+This repository contains R, Python, and shell scripts for the ecosystem-resolved biosynthetic gene cluster (BGC) atlas described in Ullah et al. (2026).
 
 ## Contents
 - `scripts/*.R` — R scripts for data processing, visualization, and figure generation
@@ -11,3 +11,4 @@ This repository contains R, Python, and shell scripts for the ecosystem-resolved
 Clone the repository:
 ```bash
 git clone https://github.com/Habib-Ullah1/EcoSurfBGC.git
+
